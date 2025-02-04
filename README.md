@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Ryan, currently working on my CS degree at ODU. I am a Boy Scout and currently an IT professional who is certified in Security+ and IT Fundamentals+!
+This is a personal repository for my classwork that is steadily growing with each assignment, and alongside my skills! I only hope I can get better.
+
 <!--
 **cs-rasbe001/cs-rasbe001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
